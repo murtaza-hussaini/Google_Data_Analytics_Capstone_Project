@@ -138,15 +138,15 @@ write.csv(df, "sample_cleaned_data.csv")
 ## **Step 4: Analyze**
 The entire analyze process was conducted using R Programming. Data aggregation and other analysis is available in R script.
 
-* Click [here](www.google.com) to view the R script file.
+* Click [here](https://github.com/murtaza-hussaini/Google_Data_Analytics_Capstone_Project/tree/main/02.%20Analysis) to view the R script file.
 
 
 ## **Step 5: Share**
 Microsoft PowerPoint is used for visualizing and presenting key insights. All the graphs used in presentation are reproducible and generated using ggplot2. It is available in R script.
 
-* Click [here](www.google.com) to download the presentation.
+* Click [here](https://github.com/murtaza-hussaini/Google_Data_Analytics_Capstone_Project/tree/main/03.%20Presentation) to download the presentation.
 
-* Click [here](www.google.com) to view the R script file.
+* Click [here](https://github.com/murtaza-hussaini/Google_Data_Analytics_Capstone_Project/tree/main/02.%20Analysis) to view the R script file.
 
 
 ## **Step 6: Act**
