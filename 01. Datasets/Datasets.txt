@@ -1,0 +1,5 @@
+Due to large size of files, I counld not upload it directly here. You can access the datasets in the following link.
+
+https://divvy-tripdata.s3.amazonaws.com/index.html
+
+Thank you for understanding.
